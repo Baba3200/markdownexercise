@@ -6,7 +6,7 @@ Das ist eine Markdownuebung
 ### Mein Style
 
 - [x]  das ist mein [:link: Style](https://www.pikpng.com/pngvi/hbhwRib_mc-hammer-icons-mc-hammer-clipart/)
-- [x]  das ist mein auch mein [:link: Style](/home/user/Pictures/insekt.jpeg)
+- [x]  das ist mein auch mein [:link: Style](/home/user/Pictures/insekt.jpeg) [![bild](/home/user/Pictures/insekt.jpeg)]
 - [x]  das ist mein anderer [:link: Style](/home/user/Pictures/R1-05288-0019.JPG)
 - [x]  :a:N & :peach: :ab:er auch :one: guter [:link: Style]($/home/user/Pictures/auflegen.jpeg)
 
