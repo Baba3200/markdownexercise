@@ -15,3 +15,5 @@ Das ist eine Markdownuebung
 |--------|--------|
 |    :link: [bomfunkMCs](https://www.youtube.com/watch?v=ymNFyxvIdaM)    |    :link: [Oelv](https://www.youtube.com/watch?v=GjqbyM7QnkU)    |
 |    :link: [Rodney](https://www.youtube.com/watch?v=9m1nYnr_zEs&t=65s)    |    :link: [Martin](https://www.youtube.com/watch?v=JKZrP8hsqtY&t=1832s)    |
+
+[![Hier ist ein Beispielbild](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopQL2YBZi_96bdpvX9rCi--60ICw_dxVAAA&usqp=CAU)
