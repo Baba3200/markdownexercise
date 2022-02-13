@@ -14,4 +14,4 @@ Das ist eine Markdownuebung
 |Freestyler|Styler|
 |--------|--------|
 |    :link: [bomfunkMCs](https://www.youtube.com/watch?v=ymNFyxvIdaM)    |    :link: [Oelv](https://www.youtube.com/watch?v=GjqbyM7QnkU)    |
-|    :link: [Rodney](https://www.youtube.com/watch?v=9m1nYnr_zEs&t=65s)    |    :link: [Martin(https://www.youtube.com/watch?v=JKZrP8hsqtY&t=1832s)    |
+|    :link: [Rodney](https://www.youtube.com/watch?v=9m1nYnr_zEs&t=65s)    |    :link: [Martin](https://www.youtube.com/watch?v=JKZrP8hsqtY&t=1832s)    |
