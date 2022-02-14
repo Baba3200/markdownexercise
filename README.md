@@ -5,10 +5,10 @@ Das ist eine Markdownuebung
 
 ### Mein Style
 
-[x] - das ist mein [:link: Style:](https://www.pikpng.com/pngvi/hbhwRib_mc-hammer-icons-mc-hammer-clipart/)
-[x] - das ist mein auch mein [:link: Style:](./images/insekt.jpeg)
-[x] - das ist mein anderer [:link: Style:](/images/ABC.jpeg)
-[x] - :a: N & :peach: :ab: er auch :one: guter [:link: Style:](/home/user/Pictures/auflegen.jpeg)
+- [x] das ist mein [:link: Style:](https://www.pikpng.com/pngvi/hbhwRib_mc-hammer-icons-mc-hammer-clipart/)
+- [x] das ist mein auch mein [:link: Style:](./images/insekt.jpeg)
+- [x] das ist mein anderer [:link: Style:](/images/ABC.jpeg)
+- [x] :a: N & :peach: :ab: er auch :one: guter [:link: Style:](/home/user/Pictures/auflegen.jpeg)
 
 |Freestyler|Styler|
 |--------|--------|
